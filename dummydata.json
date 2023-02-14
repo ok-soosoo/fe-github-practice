@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "text": "asd",
+      "checked": true,
+      "id": 1
+    },
+    {
+      "text": "ㅁㄴㅇㅁㄴㅇ",
+      "checked": false,
+      "id": 2
+    },
+    {
+      "text": "ㅁㄴㅇㅁㄴㅇ",
+      "checked": false,
+      "id": 3
+    },
+    {
+      "text": "ㅇㅇ",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "text": "ㅇㅇ",
+      "checked": false,
+      "id": 5
+    }
+  ]
+}

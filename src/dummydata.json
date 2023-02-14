@@ -1,0 +1,8 @@
+{
+  "todos": [
+    { "id": 1, "text": "강지들 산책가기", "checked": true },
+    { "id": 2, "text": "데일리코딩 29번 다시풀기", "checked": false },
+    { "id": 3, "text": "프로그래머스 1문제", "checked": true }
+  ]
+}
+

@@ -1,0 +1,6 @@
+.Status-Wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 2% 0 2%;
+}
